@@ -17,7 +17,7 @@ title: Digital Analytics
 tagline: Course website for Digital Analytics
 description: A customizable responsive Jekyll template for the Digital Analytics course at the University of Amsterdam
 author: Saurabh Khanna
-baseurl: '/teaching/digital-analytics' # the subpath of your site, e.g. /blog
+baseurl: '/digital-analytics' # the subpath of your site, e.g. /blog
 url: 'https://saurabh-khanna.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
